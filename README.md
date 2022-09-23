@@ -1,4 +1,6 @@
-Projeto: O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados
+Projeto: 
+O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados
+
 Entendendo as diferenças e características entre Banco de Dados SQL e NoSQL:
 SQL e NoSQL
 ​ Bancos de dados relacional(SQL) é um banco de dados onde armazenamos dados com um relacionamento entre si. Usado quando se precisa de um sistema mais rígido, quando já se conhece que tipos de dados você vai relacionar.
