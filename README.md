@@ -37,22 +37,29 @@ Engenharia de Dados
 
 Certificando o conhecimento do modulo de introdução ao MongoDB e Banco de Dados NoSQL.
 
-Quais tipos de dados podem ser armazenados no Redis? A maioria dos tipos de dados como string , numeros JSON
+Quais tipos de dados podem ser armazenados no Redis? 
+A maioria dos tipos de dados como string , numeros JSON
 
-O MongoDB suporta restrições de chave estrangeira? Não,
+O MongoDB suporta restrições de chave estrangeira? 
+Não
 
-MongoDB tem suporte a SQL? Nao, tem linguagem propria
+MongoDB tem suporte a SQL? 
+Nao, tem linguagem propria
 
-Quais as linguagens de consulta utilizadas pelo Neo4j e Cassandra respectivamente? Cyper e CQL
+Quais as linguagens de consulta utilizadas pelo Neo4j e Cassandra respectivamente?
+Cyper e CQL
 
-Qual comando utilizado para criar um database no MondoDB? User <nome_database>
+Qual comando utilizado para criar um database no MondoDB?
+User <nome_database>
 
-Qual tipo de escalabilidade adiciona mais recurso na máquina? Escalabilidade Vertical
+Qual tipo de escalabilidade adiciona mais recurso na máquina? 
+Escalabilidade Vertical
 
-Qual o(s) método(s) que podemos utilizar para criar um novo documento? db.colletion.insertOne(). db.collection.insertMany(), db.collection.insert()
+MongoDB tem suporte a índices? 
+Sim e seu funcionamento é igual ao dos bandos de dados relacionais
 
-MongoDB tem suporte a índices? Sim e seu funcionamento é igual ao dos bandos de dados relacionais
+Qual o(s) método(s) que podemos utilizar para consultar um documento?
+db.collection.find{});
 
-Qual o(s) método(s) que podemos utilizar para consultar um documento? db.collection.find{});
-
-Quais os tipos de banco NoSql? Orientado a documentos, chave-valor, grafo e orientado a coluna
+Quais os tipos de banco NoSql? 
+Orientado a documentos, chave-valor, grafo e orientado a coluna
